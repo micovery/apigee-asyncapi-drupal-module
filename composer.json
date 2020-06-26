@@ -1,0 +1,19 @@
+{
+    "name": "micovery/apigee-asyncapi-drupal-module",
+    "description": "Drupal 8 module that bundles the AsyncAPI react component",
+    "type": "drupal-module",
+    "authors": [
+        {
+            "name": "Miguel Mendoza",
+            "email": "miguelmendoza@google.com"
+        }
+    ],
+    "require": {},
+    "extra": {
+        "branch-alias": {
+            "dev-master": "master"
+        }
+    }
+}
+
+
